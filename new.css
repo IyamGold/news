@@ -1,0 +1,104 @@
+#majorheader{
+    display:flex;
+    margin: 0px 6px 0px 0px;
+   
+}
+.header1{
+    padding-left: 10px;
+}
+
+.header2{
+     padding-left: 20px;
+}
+
+.news{
+    background-color: chocolate;
+    text-align: center;
+    margin-top: 0px;
+}
+
+#flex{
+    display: flex;
+    margin-left: 10px 20px 0px 10px;
+    text-align: center;
+    padding-top: 0px;
+}
+
+.where{
+    margin-left: 40px;
+}
+
+.vol12{
+    display: flex;
+    background-color: dodgerblue;
+    margin-top: 10px;
+   padding-left: 50px;
+}
+
+.vol12, h3{
+    padding-left: 120px;
+}
+.flex, a{
+    padding-left: 100px;
+}
+
+.flex, p, a{
+    padding-top: 0px;
+}
+
+#oil{
+    color: red;
+    font-size: 30px;
+}
+
+.writing{
+    font-size: 30px;
+}
+
+.span{
+    color: red;
+}
+
+.relative{
+    position: relative;
+}
+
+.sticky{
+    position: absolute;
+    top:921px;
+    /* bottom: 0px; */
+    /* left: 20px; */
+    border: red 2px solid;
+    height: 21.9%;
+    width: 15.8%;
+}
+
+
+#koala{
+    position: relative;
+    /* height: 200px; */
+}
+
+#hyd{
+    position: absolute;
+    top: 1295px;
+    border: red 2px solid;
+    height: 16.4%;
+}
+
+#me{
+    width: 800px;
+    /* : 800px; */
+}
+
+#me, h3{
+    font-size: 30px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.ending{
+    display: flex;
+}
+
+
